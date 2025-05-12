@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_download_list"
+        android:title="@string/downloading_list"
+        android:icon="@drawable/ic_download_list"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_history"
+        android:title="@string/history"
+        android:icon="@drawable/ic_history"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_import_cookies"
+        android:title="导入Cookies文件"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_help"
+        android:title="下载问题帮助"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_update_ytdl"
+        android:title="更新下载引擎"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/about"
+        app:showAsAction="never" />
+</menu> 
