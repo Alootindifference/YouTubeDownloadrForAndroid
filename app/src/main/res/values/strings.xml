@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YouTube下载器</string>
+    <string name="paste_url">粘贴YouTube视频链接</string>
+    <string name="download">下载</string>
+    <string name="history">下载历史</string>
+    <string name="clear_history">清除历史</string>
+    <string name="downloading">正在下载</string>
+    <string name="download_complete">下载完成</string>
+    <string name="download_failed">下载失败</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    <string name="cancel">取消</string>
+    <string name="about">关于</string>
+    <string name="version">版本 %s</string>
+    <string name="developer">开发者: Alootcold</string>
+    <string name="easter_egg">彩蛋</string>
+    <string name="downloading_list">下载列表</string>
+    <string name="clear_downloading_list">清除下载列表</string>
+    <string name="permission_required">需要权限</string>
+    <string name="permission_explanation">为了下载视频到您的设备，应用需要访问您的媒体和图片。请在下一步中授予这些权限。</string>
+    <string name="get_info_failed">获取视频信息失败</string>
+    <string name="initialization_failed">YoutubeDL初始化失败: %s</string>
+    <string name="nav_home">主页</string>
+    <string name="nav_download_list">下载列表</string>
+    <string name="nav_history">历史</string>
+</resources> 
