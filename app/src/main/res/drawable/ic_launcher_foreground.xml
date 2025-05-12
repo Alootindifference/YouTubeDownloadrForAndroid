@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- YouTube图标上半部分 - 红色矩形 (水平居中，缩小版) -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M39,35h30v15h-30z" />
+    
+    <!-- YouTube图标 - 白色播放三角形 (向右移动) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,38L58,42.5L50,47z" />
+    
+    <!-- 分隔空间，增加 -->
+    
+    <!-- 下载箭头 - 垂直线条 (缩小版) -->
+    <path
+        android:strokeColor="#FF0000"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M54,58v15" />
+    
+    <!-- 下载箭头 - 箭头头部 (缩小版) -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M45,72h18l-9,11z" />
+</vector> 
